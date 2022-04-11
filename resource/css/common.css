@@ -5,6 +5,7 @@ box-sizing: border-box;
 border: 1px solid silver;
 text-decoration: none;
 color: inherit;
+list-style: none;
 }
 
 img {
